@@ -1,6 +1,10 @@
 ## Website Preview
 URL : https://react-github-users-project.netlify.app/login
 
+### Credentials :
+User : trial@gmail.com
+password: Trial@123
+
 ## Styled Components
 Styled component is a different way to apply css to elements. Refer to its docs for better understanding.
 [Styled-Components - Main Docs](https://styled-components.com/)
